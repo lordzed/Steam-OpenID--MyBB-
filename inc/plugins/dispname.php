@@ -72,7 +72,7 @@ function dispname_info()
 		'author'		=> 'ZiNgA BuRgA',
 		'authorsite'	=> 'http://zingaburga.com/',
 		'version'		=> '1.05',
-		'compatibility'	=> '14*,15*,16*',
+		'compatibility'	=> '14*,15*,16*,18*',
 		'guid'			=> ''
 	);
 }
